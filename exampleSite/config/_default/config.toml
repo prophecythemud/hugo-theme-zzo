@@ -1,6 +1,7 @@
 baseURL = "https://github.com/prophecythemud/"
 title = "Hugo Zzo Theme"
 theme = "zzo"
+publishDir = "prophecythemud.github.io"
 
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
